@@ -1,1 +1,2 @@
-# Consume-rest
+# OpenFeign
+Calling a get REST endpoint with OpenFeign.
